@@ -1,4 +1,6 @@
 Estudiante 1: Gregorio Salazar Estudiante 2: Valentina Uribe 
+Gregorio Salazar 202022085 g.salazar@uniandes.edu.co
+Valentina Uribe 201817485 v.uribe@uniandes.edu.co
 
 #ISIS1225 - Estructura de un proyecto
 
